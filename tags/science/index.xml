@@ -13,12 +13,15 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Les sucres</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>Dans le cadre de mon cours de biochimie, j&#39;ai été amenée à réaliser en laboratoire une étude des macromolécules fondamentales du monde vivant dont les sucres. Ainsi, par le biais d&#39;une série d&#39;expériences, nous avons essayé de comprendre leur réactivité et par conséquent leurs propriétés chimiques. Ce projet a été réalisé par TOUBEAU Laura, MICHEL Apolline, LAMBERT Guillaume, RENIER Margaux et BRAECKEVELT Laura.
+#LES SUCRES
+##Introduction
+Les polysaccharides sont des polymères dont les monomères sont des polyalcools.</description>
     </item>
     
   </channel>
